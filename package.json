@@ -5,6 +5,7 @@
     "npm": ">=3.3 <4"
   },
   "dependencies": {
+    "alt": "^0.17.9",
     "babel-polyfill": "6.6.1",
     "babel-runtime": "6.6.1",
     "bluebird": "3.3.3",

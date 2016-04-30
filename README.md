@@ -1,3 +1,15 @@
+## Whack-A-Mole: An Introduction to ReactJS, Alt and friends
+### By Ben Bekerman
+Heavily adapted from [Alan Rubin](https://github.com/alanrubin/home-wack-a-mole)
+
+### Tasks:
+>  1. Fix company name
+>  2. Tweak the game logic so the moles would only jump sporadically
+>  3. Be able to click
+>  4. A different ordering of the moles
+>  5. Does this work on your mobile device?
+
+This project was created using:
 ## React Starter Kit — "isomorphic" web app boilerplate
 
 [![Support us on Bountysource](https://dl.dropboxusercontent.com/u/16006521/react-starter-kit/banner.png)](https://salt.bountysource.com/teams/react-starter-kit)<br>

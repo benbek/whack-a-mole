@@ -1,0 +1,28 @@
+.mole {
+
+  .hole {
+    height: 70px;
+    background: transparent url(../../../public/images/hole-bg.png) center center no-repeat;
+    background-size: contain;
+  }
+
+  .person {
+    min-height: 120px;
+    min-width: 130px;
+
+    img {
+      position: relative;
+      bottom: 10px;
+      left: 21%;
+      height: 120px;
+      -webkit-transition-property: bottom, opacity;
+      -webkit-transition-duration: 0.5s;
+      opacity: 0;
+    }
+  }
+
+  img.up {
+    opacity: 1;
+    bottom: 50px;
+  }
+}
